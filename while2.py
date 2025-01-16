@@ -12,6 +12,3 @@ while contador < 10:
 
 print('\n\nAcabou')
 print('\n\nAcabou')
-
-
-
