@@ -4,8 +4,8 @@ args - argumentos nao nomeados
 """
 
 #lembra:
-x, y, *resto = 1, 2, 3, 4
-print(x, y, resto)
+# x, y, *resto = 1, 2, 3, 4
+# print(x, y, resto)
 
 def soma(*args):
     print(args)
